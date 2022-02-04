@@ -6,7 +6,7 @@ FOLLOW JAN PAKE NYA DOANG
 > pkg install git 
 > apt install python
 > apt install python2
->git clone https://github.com/JaeXploit/culik-mem-tele
+> git clone https://github.com/JaeXploit/culik-mem-tele
 > cd mem-tele
 ```
 ### TAMBAH AKUN TELE
