@@ -17,8 +17,12 @@ FOLLOW JAN PAKE NYA DOANG
 ```bash
 > python add.py
 ```
+### THANKS FOR
+```bash
+Thanks for You
+Thanks for All-Community
+```
 ### NOTE
-(Thanks for You)
-(Thanks for all-community)
+```bash
 (Mengunakan akun yang nda ad contacts penting(akun fake bukan akun ORI))
-
+```
