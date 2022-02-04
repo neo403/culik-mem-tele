@@ -8,7 +8,7 @@ FOLLOW JAN PAKE NYA DOANG
 > apt install python2
 >git clone https://github.com/JaeXploit/culik-mem-tele
 > cd mem-tele
-### TAMBAH AKUN TELE
+#### TAMBAH AKUN TELE
 ```bash
 > python acc-tele.py
 ```
