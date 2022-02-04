@@ -20,4 +20,5 @@ FOLLOW JAN PAKE NYA DOANG
 ### NOTE
 (Thanks for You)
 (Thanks for all-community)
+(Mengunakan akun yang nda ad contacts penting(akun fake bukan akun ORI))
 
