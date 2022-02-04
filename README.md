@@ -7,7 +7,7 @@ FOLLOW JAN PAKE NYA DOANG
 > apt install python
 > apt install python2
 > git clone https://github.com/JaeXploit/culik-mem-tele
-> cd mem-tele
+> cd culik-mem-tele
 ```
 ### TAMBAH AKUN TELE
 ```bash
